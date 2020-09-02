@@ -20,7 +20,7 @@ Nothing unusual here.
  4. Credentials for login screen are: user / password
  5. Wait for around 2 minutes (`server.servlet.session.timeout` is set to 1 minute)
  
-The websocket will be disconnected, despite heartbeating with the second every second.
+The websocket will be disconnected, despite heartbeating with the server every second.
 
 ## Workaround
 
