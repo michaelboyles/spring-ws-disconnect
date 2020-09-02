@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>WebSocket Disconnect</title>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/sockjs-client/1.5.0/sockjs.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/stomp.js/2.3.3/stomp.min.js"></script>
+        <script src="/websocket.js" type="text/javascript"></script>
+    </head>
+    <body onload="connect()">
+        <noscript>This example requires JavaScript</noscript>
+        <div>Responses: <span id="responses">0</span> (see console for message content)</div>
+        <div>Status: <span id="status">Disconnected (should connect automatically)</span></div>
+    </body>
+</html>
