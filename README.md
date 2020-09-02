@@ -1,4 +1,4 @@
-This is a reproducible example for the Spring issue tracker.
+This is a reproducible example for the Spring issue tracker: https://github.com/spring-projects/spring-security/issues/8992
 
 ## Problem
 
